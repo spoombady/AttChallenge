@@ -1,2 +1,2 @@
 # AttChallenge
- RESTful API Challenge from ATT
+ Sample RESTful API 
