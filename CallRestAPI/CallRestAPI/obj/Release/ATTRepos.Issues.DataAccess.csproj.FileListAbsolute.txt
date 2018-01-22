@@ -1,0 +1,8 @@
+C:\Users\sheel\Documents\Visual Studio 2017\Projects\CallRestAPI\CallRestAPI\bin\Release\CallRestAPI.exe.config
+C:\Users\sheel\Documents\Visual Studio 2017\Projects\CallRestAPI\CallRestAPI\bin\Release\CallRestAPI.exe
+C:\Users\sheel\Documents\Visual Studio 2017\Projects\CallRestAPI\CallRestAPI\bin\Release\CallRestAPI.pdb
+C:\Users\sheel\Documents\Visual Studio 2017\Projects\CallRestAPI\CallRestAPI\bin\Release\Newtonsoft.Json.dll
+C:\Users\sheel\Documents\Visual Studio 2017\Projects\CallRestAPI\CallRestAPI\bin\Release\Newtonsoft.Json.xml
+C:\Users\sheel\Documents\Visual Studio 2017\Projects\CallRestAPI\CallRestAPI\obj\Release\ATTRepos.Issues.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\sheel\Documents\Visual Studio 2017\Projects\CallRestAPI\CallRestAPI\obj\Release\CallRestAPI.exe
+C:\Users\sheel\Documents\Visual Studio 2017\Projects\CallRestAPI\CallRestAPI\obj\Release\CallRestAPI.pdb
